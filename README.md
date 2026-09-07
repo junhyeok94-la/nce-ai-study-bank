@@ -2,6 +2,8 @@
 
 NAVER Cloud 관련 AI 개념을 복습하기 위한 비공식 개인 학습용 문제은행입니다.
 
+**[웹에서 학습 시작하기](https://junhyeok94-la.github.io/nce-ai-study-bank/)**
+
 - 중복을 제거한 88문항
 - 개별·전체 채점
 - 정답 및 해설
